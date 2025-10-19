@@ -1,1 +1,0 @@
-Upload your logo here as logo.svg. Recommended sizes: 512x512 and 200x200.
